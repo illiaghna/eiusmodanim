@@ -1,0 +1,9 @@
+$google-blue: #4285F4;
+$google-red: #EA4335;
+$google-yellow: #FBBC05;
+$google-green: #34A853;
+
+.example {
+    background-color: $google-blue;
+    color: $google-red;
+}
